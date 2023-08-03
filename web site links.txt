@@ -1,1 +1,18 @@
 photo minimige korar jono web page {potopea}
+
+
+this site link
+
+echo "# link-of-need-web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jichad/link-of-need-web.git
+git push -u origin main
+
+or 
+
+git remote add origin https://github.com/jichad/link-of-need-web.git
+git branch -M main
+git push -u origin main
